@@ -68,4 +68,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is MIT Lisenced
+This project is MIT Lisenced.
